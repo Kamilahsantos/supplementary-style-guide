@@ -35,4 +35,7 @@ Open the generated `main.html` file in a browser to view the built guide.
 
 ## License
 
+alguma coisa
+
+
 This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
